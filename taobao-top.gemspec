@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "hashie", '~> 2.0'
   spec.add_dependency "activesupport", '~> 5.2.1'
-  spec.add_dependency "rest-client", "~> 1.6.0"
+  spec.add_dependency "rest-client", "~> 2.0"
   spec.add_dependency "omniauth", '~> 1.1'
   spec.add_dependency "omniauth-oauth2", '~> 1.1'
 
