@@ -1,5 +1,5 @@
 require 'digest/md5'
-require 'digest/hmac'
+#require 'digest/hmac'
 require 'rest_client'
 
 module Taobao
