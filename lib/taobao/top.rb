@@ -3,6 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 require "taobao/top/version"
 require 'hashie'
+require 'active_support'
 require 'active_support/core_ext'
 
 module Taobao
